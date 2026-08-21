@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Milanova;Evgeniya;;;
+FN:Evgeniya Milanova
+TITLE;CHARSET=UTF-8:Консултант за ръст на печалбата
+TEL;TYPE=CELL,VOICE:+359890961111
+EMAIL;TYPE=INTERNET;TYPE=WORK:evgeniya@milanovagroup.com
+URL:https://milanovagroup.com/business-card/created-by-deyan
+item1.URL:https://milanovagroup.com
+item1.X-ABLabel:Website
+item2.URL:https://www.linkedin.com/in/evgeniya-milanova-16882b20a
+item2.X-ABLabel:LinkedIn
+END:VCARD
